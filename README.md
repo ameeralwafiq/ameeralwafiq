@@ -23,6 +23,6 @@ In addition to these core objectives, we also wanted our web application to be v
 ## Sequence Diagram
 ![WhatsApp Image 2022-12-28 at 21 21 39](https://user-images.githubusercontent.com/92366023/209838562-eb14f520-438d-4dfd-a827-777d763e982d.jpg)
 
-Entity Relationship Diagram
+## Entity Relationship Diagram
 ![WhatsApp Image 2022-12-28 at 21 44 45](https://user-images.githubusercontent.com/92366023/209838642-f2a2ffab-9af6-4a96-86b9-35f5126caf3b.jpg)
 
