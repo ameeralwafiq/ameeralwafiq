@@ -20,6 +20,9 @@ Our main objective in creating this web application was to streamline the bookin
 Another key objective of our booking system is to help us better manage and utilize our resources. By allowing players to reserve time slots in advance, we can ensure that all of our gaming stations are being used to their full potential and minimize the risk of overcrowding. This will help us to provide a better gaming experience for all of our players, as well as maximize the efficiency of our operations.
 In addition to these core objectives, we also wanted our web application to be visually appealing and user-friendly. We wanted to create an interface that was easy to navigate and provided all of the necessary information in a clear and concise manner.
 
+## Features and Functionality
+
+
 ## Sequence Diagram
 ![WhatsApp Image 2022-12-28 at 21 21 39](https://user-images.githubusercontent.com/92366023/209838562-eb14f520-438d-4dfd-a827-777d763e982d.jpg)
 
