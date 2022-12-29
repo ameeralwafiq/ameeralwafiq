@@ -7,7 +7,7 @@
 - Ameer Al Wafiq Bin Norazam 2119005
 - Robbani Ghozi Fikri 1832765
 ## Group Project Proposal
-“e-Sport Booking System”
+e-Sport Booking System : X-Book
 ## Project Introduction
 The web application of Booking System in a gaming company named "FlashPoint Studio" is an innovative and convenient solution that allows customers to book a provided place for them to play their favorite games. With the help of this system, customers can easily browse through the available options, select their preferred date and time, and make a booking with just a few clicks.
 One of the key benefits of the Booking System is that it allows customers to plan and schedule their activities in advance, ensuring that they can enjoy their favorite games and activities without any delays or disruptions. The system also helps the company to manage its bookings and resources more efficiently, as it allows them to keep track of the availability of their games and activities in real-time. The system is user-friendly and intuitive, making it easy for players to find and reserve the time slots that best suit their schedules. Players can simply select their preferred location, game, and time slot, and our system will automatically confirm their booking.
@@ -21,7 +21,13 @@ Another key objective of our booking system is to help us better manage and util
 In addition to these core objectives, we also wanted our web application to be visually appealing and user-friendly. We wanted to create an interface that was easy to navigate and provided all of the necessary information in a clear and concise manner.
 
 ## Features and Functionality
+Home Page - Browse easily and reserve your spot at our exciting gaming events, tournaments, and experiences by selecting your desired location, event date, and ticket type.
 
+Register - Provide your personal details and create a unique username and password to get started on reserving your spot at our exciting gaming events, tournaments, and experiences.
+
+Booking Page - Navigate to the booking page and select the location, date, and ticket type for the event you wish to attend. You'll then be prompted to provide your personal and payment information to complete the booking process.
+
+Confirmation Page - The details of your reservation, including the event location, date, ticket type, and payment information. Make sure to review this page carefully and keep it for your records
 
 ## Sequence Diagram
 ![WhatsApp Image 2022-12-28 at 21 21 39](https://user-images.githubusercontent.com/92366023/209838562-eb14f520-438d-4dfd-a827-777d763e982d.jpg)
